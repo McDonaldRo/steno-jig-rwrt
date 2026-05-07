@@ -87,4 +87,8 @@
 	E["Rows: N, Y, J, C, V"] = IndividualChords(['N-', 'Y-', 'J-', 'C-', 'V-'], 100)
 	E["Other chords: G, X, Z, -J"] = IndividualChords(['G-', 'X-', 'Z-', '-J'], 100)
 
+	// RWRT
+	E["RWRT left"] = IndividualChords(['X-','Z-'], 100)
+	E["RWRT right"] = IndividualChords(['-C', '-H', '-Q', '-V','-W', '-X'], 100)
+
 })();  // Execute the code in the wrapper function.
